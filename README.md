@@ -3,7 +3,8 @@ I'm constantly expanding my knowledge about programming.<br>
 ## I’m focused on:<br>
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/java_git.png)
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/spring_git.png)
-Hibernate, Kafka, Docker<br>
+Hibernate, Kafka
+![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/docker_git.png)<br>
 ## Contact me:
 bartosz.dziurowicz@gmail.com<br>
 <a href="https://www.linkedin.com/in/bartosz-dziurowicz-62685716a/">Linkedin</a>
