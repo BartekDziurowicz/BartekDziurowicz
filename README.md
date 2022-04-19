@@ -1,7 +1,7 @@
 #### Hi, I’m Bartek 👋 Welcome on my GitHub profile!<br>
 I'm constantly expanding my knowledge about programming.<br>
 ## I’m focused on:<br>
-<img src="https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/java_git.png>
+![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/java_git.png)
 Java, Spring, Hibernate, Kafka, Docker<br>
 ## Contact me:
 bartosz.dziurowicz@gmail.com<br>
