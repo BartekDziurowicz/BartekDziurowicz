@@ -4,7 +4,7 @@ I'm constantly expanding my knowledge about programming.<br>
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/java_git.png) 
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/spring_git.png) 
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/hibernate_git.png) 
-![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/kafka_git.png) 
+![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/kafka_git.png)<br> 
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/javascript.png)
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/css.png)
 ![This is an image](https://github.com/BartekDziurowicz/BartekDziurowicz/blob/main/html.png)
